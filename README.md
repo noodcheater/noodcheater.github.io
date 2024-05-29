@@ -9,9 +9,9 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            height: 200vh;
+            height: 100vh;
             margin: 0;
-            background-color: #f0f0f0;
+            background-color: #2e2d2d;
             font-family: Arial, sans-serif;
         }
 
