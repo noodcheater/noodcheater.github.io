@@ -40,6 +40,6 @@
 </head>
 <body>
     <h1>Roblox Chat Bypasser</h1>
-    <a href="https://raw.githubusercontent.com/noodcheater/noodcheater.github.io/main/roblox_chat_bypasser_lol.rar" class="download-button" download="roblox_chat_bypasser_lol.rar">Download</a>
+    <a href="https://github.com/noodcheater/noodcheater.github.io/blob/main/roblox_chat_bypasser_lol.rar" class="download-button" download="roblox_chat_bypasser_lol.rar">Download</a>
 </body>
 </html>
