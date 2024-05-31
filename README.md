@@ -7,10 +7,11 @@
         body {
             display: flex;
             flex-direction: column;
-            justify-content: center;
-            align-items: center;
+            justify-content: flex-start; /* Aligns items to the top */
+            align-items: flex-start; /* Aligns items to the left */
             height: 100vh;
             margin: 0;
+            padding: 20px; /* Adds some padding to the body */
             background-color: #f0f0f0;
             font-family: Arial, sans-serif;
         }
